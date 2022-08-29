@@ -1,0 +1,22 @@
+{
+  "name": "data-html",
+  "version": "1.0.0",
+  "description": "web nya ken",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KizunoKun/Data-Html.git"
+  },
+  "author": "ken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KizunoKun/Data-Html/issues"
+  },
+  "homepage": "https://github.com/KizunoKun/Data-Html#readme",
+  "dependencies": {
+    "slick-carousel": "^1.8.1"
+  }
+}
